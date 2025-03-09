@@ -30,7 +30,7 @@ pip install selenium wonderwords
 
 ```bash
 git clone https://github.com/apurvwajage/EdgeAutomation.git
-cd EdgeAutomation
+cd EdgeAutomation/script
 ```
 
 ### 3️⃣ Run the script  
